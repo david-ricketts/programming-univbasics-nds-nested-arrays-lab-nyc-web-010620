@@ -30,3 +30,9 @@ describe 'When a learning to update cells in nested arrays,' do
     end
   end
 end
+
+
+assembled_matrix()
+sorted_matrix()
+matrix_lookup
+matrix_update
